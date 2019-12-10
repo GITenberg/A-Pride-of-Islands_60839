@@ -1,0 +1,39 @@
+_repo: A-Pride-of-Islands_60839
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: MacApp, C. C.
+    alias: Capps, Carroll Mather
+    birthdate: 1917
+    deathdate: 1971
+    gutenberg_agent_id: '25709'
+    url: http://www.gutenberg.org/2009/agents/25709
+    wikipedia: http://en.wikipedia.org/wiki/C._C._MacApp
+description: ''
+gutenberg_issued: '2019-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Regression (Civilization) -- Fiction'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: A Pride of Islands
+url: http://www.gutenberg.org/ebooks/60839
