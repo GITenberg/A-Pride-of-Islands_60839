@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32276'
     url: http://www.gutenberg.org/2009/agents/32276
     wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: archival
+  image_path: 60839-h/images/cover.jpg
 creator:
   author:
     agent_name: MacApp, C. C.
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25709
     wikipedia: http://en.wikipedia.org/wiki/C._C._MacApp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60839#A-Pride-of-Islands
 gutenberg_issued: '2019-12-03'
 gutenberg_type: Text
 identifiers:
